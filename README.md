@@ -61,3 +61,37 @@ New York was one of the locations that was heavily influenced by SuperStorm Sand
 ### Minimizing Flood-Related Threats During Storms 
 
 While we can't prevent hurricanes entirely and they will only become more frequent and deadly due to global warming, it is worth noting what coastal cities can do to minimize the damage civilians and infrastructure have to face after a deadly storm like Hurricane Sandy. Well-developed flood evacuation plans are a critical practice that should be implemented just as often fire drills are. This could prevent many casualties caused by superstorms and ensure everyone's safety. Similar to what is being done to manage flooding in the Gowanus, setting up more bioswales, rain gardens, catch basins, or storm sewers can lend a small helping hand in tackling the damage caused by superstorms like Sandy. It also helps to do a better job at tracking flood-prone locations so we can identify which areas will most likely need backup and assistance far before the storm hits. Many of these approaches can also be applied to manage urban flooding caused by a casual rain storm, but the extra steps can make a large difference when facing a threat similar to the one in 2012.   
+
+
+# Current Flood Mitigation
+
+## The Construction Code
+The Construction Code sets standards for safe flood-resistant construction. It determined the DFE (designated flood elevation), which is the minimal elevation from the ground to be protected from flooding. If a building has occupants in it, the lowest floor with residents must always be above the DFE. Levels below the DFE can only be used for parking, storage, or similar purposes. 
+
+## Protecting Buildings
+Urban flooding can cause a lot of damage to properties including buildings. Part of the current flood mitigation is to protect buildings by using flood-protective materials and other methods. 
+- Dry floodproofing is a method that involves using water-tight construction methods that provide temporary barriers to keep floodwater out.  
+- Wet floodproofing involves using flood-resistant materials that allow floodwater in and out by causing little to no damage.
+- Elevating buildings above the DFE
+- Land and street elevation
+- Elevating mechanical equipment above the DFE
+![image](https://user-images.githubusercontent.com/87463186/127220076-37c5b580-9292-4acb-93fc-4e50166520a5.png)
+
+
+## Green Infrastructure
+Green infrastructure is a method used to solve issues with the help of nature. With the help of green infrastructure, the effects of urban flooding can be significantly minimized. Below are a few examples of green infrastructure being implemented to minimize urban flooding.
+- Green roofs: Help cool buildings and reduce the amount of stormwater going into sewers by capturing rain in barrels. 
+- Rain gardens: A depression on a landscape containing different plants. They help minimize flooding by collecting rainwater and soaking it underground before it can flood the streets. 
+- Bioswales: Bioswales also contain plants that soak up rainwater before it floods the streets. However, a major difference between bioswales and rain gardens, is that bioswales also remove pollutants. 
+- Rain gardens: A depression on a landscape containing different plants. They help minimize flooding by collecting rainwater and soaking it underground before it can flood the streets. 
+![image](https://user-images.githubusercontent.com/87463186/127220239-8922a870-ce65-4e0d-ac5f-49b415e2cb40.png)
+![image](https://user-images.githubusercontent.com/87463186/127220254-4a2e21a4-c8c6-4c82-b5ab-52ea207a459f.png)
+
+## Stormwater Resiliency Plan and Goals
+With climate change becoming a rapidly deteriorating issue, urban flooding has already started to increase. From 1958 to 2012, there has been a 70 percent increase in rainfall, which can be linked to increased flooding. These factors required actions to prepare for the future, so in 2017 the Storm Water Resiliency Plan was developed. This plan assigned roles and set a series of goals to properly prepare and face the issue of flooding in New York City. The table below represents the key goals of the plan:
+| Goal                                                       | Initiatives                                                                                                                                                                                                                                                                                                                                  |
+|------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Inform the public                                          | - Release maps showing flood vulnerability to the public.<br>- Include maps on a platform where the public can interact with them<br>- Engage stakeholders and explain the effects of extreme rainfall                                                                                                                                       |
+| Update flash flood response and prioritize vulnerable ares | - Update Stormwater Mitigation Areas, locations with more acute urban flood issues<br>- Coordinate the DEP’s Flood Activation and Notification procedure with the Flash Flood Plan smoothly<br>- Maintain storm shelters<br>- Notify basement residents of flooding risks<br>- Create storm scenarios to modify NYC’s response               |
+| Advance policies and research regarding urban flooding     | - Develop precise rainfall intensity projections<br>- Install green roofs<br>- Update on-site stormwater management requirements to reduce the amount and rate of stormwater entering city sewer system<br>- Include stormwater flood mitigation into NYC’s Climate Resiliency Design Guidelines                                             |
+| Leverage stormwater investments                            | - Identify the best interventions to manage flood risks<br>- Analyze water and wastewater rate structure options<br>- Establish criteria for tiering neighborhoods based on flood vulnerability<br>- Evaluate flood risk strategies based off the tiers<br>- Revise drainage planning and include lessons from past events into future plans |

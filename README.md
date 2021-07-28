@@ -1,6 +1,24 @@
 # FloodSense ARISE 2021
 
-# Case Study- Communities Impacted By Urban Flooding 
+## Table of Contents
+- [Communities Impacted by Urban Flooding](#Communities_Impacted_By_Urban_Flooding)
+  - [Urban Flooding in the Gowanus](#Urban_Flooding_in_the_Gowanus)
+    - [Introduction to the Gowanus Canal](#Introduction_to_the_Gowanus_Canal)
+    - [Health Risks caused by Flooding in the Gowanus](Health_Risks_caused_by_Flooding_in_the_Gowanus)
+    - [Expenses and Solutions for Flooding in the Gowanus](Expenses_and_Solutions_for_Flooding_in_the_Gowanus)
+  - [ Urban Flooding in Coney Island ](Urban_Flooding_in_Coney_Island)
+    - [Introduction to Coney Island](Introduction_to_Coney_Island)
+    -  [Flooding Risk and Expenses in Coney Island](Flooding_Risk_and_Expenses_in_Coney_Island)
+  - [Urban Flooding and Hurricane Sandy](Urban_Flooding_and_Hurricane_Sandy)
+    - [Introduction](Introduction)
+    - [Hurricane Sandy's Impact on Urban Flooding and New Yorkers](Hurricane_Sandy's_Impact_on_Urban_Flooding_and_New_Yorkers)
+    - [ Minimizing Flood-Related Threats During Storms](Minimizing_Flood-Related_Threats_During_Storms)
+- [Current Flood Mitigation](Current_Flood_Mitigation)
+  - [The Construction Code](The_Construction_Code)
+  - [Protecting Buildings](Protecting_Buildings)
+  - [Green Infrastructure](Green_Infrastructure)
+  - [Stormwater Resiliency Plan and Goals](Stormwater_Resiliency_Plan_and_Goals)
+# Communities Impacted By Urban Flooding 
 
 Urban flooding is a major issue in many coastal cities including New York. Extreme rainfall leaves many communities vulnerable to harm caused by flooding, such as property damage, sewer back ups, basement seepage, health concerns and more. One instance of urban flooding causing extensive damage was when so much flood water built up on a private worksite, it broke through the plywood barrier separating it from the Court Street train station. Soon the platform was filled with storm water. This is only one instance of the devastating impacts of urban flooding, these types of incidents happen in coastal cities whenever it rains, and with global warming, these incidents will become more frequent and deadly. 
 
@@ -24,7 +42,7 @@ Urban flooding is an expensive issue due to how much it costs to repair damage a
 
 <img src="https://bklyner.com/content/images/bklyner/wp-content/uploads/2018/06/maxresdefault.jpg" alt="Rain Gardens Coming to Central-Southern Brooklyn - Bklyner" style="zoom:20%;" />
 
-### Other Notes:
+#### Other Notes:
 
 - 21 percent of the properties are at risk of property damage caused by flooding
   - 144 properties at risk currently
@@ -36,7 +54,7 @@ Urban flooding is an expensive issue due to how much it costs to repair damage a
 
 ## Urban Flooding in Coney Island 
 
-### Introduction
+### Introduction to Coney Island
 
 Coney Island is a well known neighborhood in Brooklyn that turns into a go-to summer relaxation spot in the summer for Brooklyn residents. Tourists visit the nearby amusement park, Luna Park and Coney Island beach, and other popular tourist spots. Despite the neighborhoods many positive attributes, it is one of New York's flood prone locations, making it vulerable to all sorts of infrastructure damage and more. 
 ![10](https://user-images.githubusercontent.com/87463186/127222373-0dced87b-f18c-4f7c-928e-714bb5be9aa3.jpg)

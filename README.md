@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Communities Impacted by Urban Flooding](#Communities-Impacted-By-Urban-Flooding)
   - [Urban Flooding in the Gowanus](#Urban-Flooding-in-the_Gowanus)
-    - [Introduction to the Gowanus Canal](#Introduction-to-the-Gowanus-Canal)
+    - [Introduction to the Gowanus Canal](#introduction-to-the-gowanus-canal)
     - [Health Risks caused by Flooding in the Gowanus](Health-Risks-caused-by-Flooding-in-the-Gowanus)
     - [Expenses and Solutions for Flooding in the Gowanus](Expenses-and-Solutions-for-Flooding-in-the-Gowanus)
   - [ Urban Flooding in Coney Island ](Urban-Flooding-in-Coney-Island)

@@ -1,7 +1,7 @@
 # FloodSense ARISE 2021
 
 ## Table of Contents
-- [Communities Impacted by Urban Flooding](#Communities_Impacted_By_Urban_Flooding)
+- [Communities Impacted by Urban Flooding](#Communities-Impacted-By-Urban-Flooding)
   - [Urban Flooding in the Gowanus](#Urban_Flooding_in_the_Gowanus)
     - [Introduction to the Gowanus Canal](#Introduction_to_the_Gowanus_Canal)
     - [Health Risks caused by Flooding in the Gowanus](Health_Risks_caused_by_Flooding_in_the_Gowanus)

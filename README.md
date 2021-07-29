@@ -57,11 +57,13 @@ Urban flooding is an expensive issue due to how much it costs to repair damage a
 ### Introduction to Coney Island
 
 Coney Island is a well known neighborhood in Brooklyn that turns into a go-to summer relaxation spot in the summer for Brooklyn residents. Tourists visit the nearby amusement park, Luna Park and Coney Island beach, and other popular tourist spots. Despite the neighborhoods many positive attributes, it is one of New York's flood prone locations, making it vulerable to all sorts of infrastructure damage and more. 
+
 ![10](https://user-images.githubusercontent.com/87463186/127222373-0dced87b-f18c-4f7c-928e-714bb5be9aa3.jpg)
 
 ### Flooding Risk and Expenses in Coney Island
 
 Coney Island is a high flood risk location, and it's risk continues to increase. 99 percent of the properties in Coney Island are in risk of being damged by flooding. Currently 1,590 properties are at risk, but in fifteen years, this number is expected to increase by 7.4 percent, putting 1,707 properties at risk, and in 30 years, there is a 14.7 percent expected increase in properties at risk. Of the 1,590 properties at flood risk right now, they all have a chance of water entering their buildings and causing up to four feet of flooding. These high levels of flood risk are very expensive as well. This year, the flood damage costs $27K, but in 30 years, there  is an expected 188 percent increase, costing $789.7K in damage. 
+
 ![sandy](https://user-images.githubusercontent.com/87463186/127222288-ae43a8cb-dc7b-43f6-8f5c-c54a5e960d9d.jpg)
 
 

@@ -1,4 +1,5 @@
-# FloodSense ARISE 2021
+# ARISE 2021: FloodSense Lab
+ARISE is a STEM program at NYU offered to rising high school juniors and seniors. Through this program students have the opportunity to gain research skills by working with one of the many labs offered. The FloodSense lab works to tackle the issue of urban flooding by understanding and tracking urban flooding in New York. Below is information about flood-prone locations in New York and flood mitigation.
 
 ## Table of Contents
 - [Communities Impacted by Urban Flooding](#communities-impacted-by-urban-flooding)

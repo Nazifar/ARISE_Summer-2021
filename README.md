@@ -1,23 +1,24 @@
-# FloodSense ARISE 2021
+# ARISE 2021: FloodSense Lab
+ARISE is a STEM program at NYU offered to rising high school juniors and seniors. Through this program students have the opportunity to gain research skills by working with one of the many labs offered. The FloodSense lab works to tackle the issue of urban flooding by understanding and tracking urban flooding in New York. Below is information about flood-prone locations in New York and flood mitigation.
 
 ## Table of Contents
-- [Communities Impacted by Urban Flooding](#Communities_Impacted_By_Urban_Flooding)
-  - [Urban Flooding in the Gowanus](#Urban_Flooding_in_the_Gowanus)
-    - [Introduction to the Gowanus Canal](#Introduction_to_the_Gowanus_Canal)
-    - [Health Risks caused by Flooding in the Gowanus](Health_Risks_caused_by_Flooding_in_the_Gowanus)
-    - [Expenses and Solutions for Flooding in the Gowanus](Expenses_and_Solutions_for_Flooding_in_the_Gowanus)
-  - [ Urban Flooding in Coney Island ](Urban_Flooding_in_Coney_Island)
-    - [Introduction to Coney Island](Introduction_to_Coney_Island)
-    -  [Flooding Risk and Expenses in Coney Island](Flooding_Risk_and_Expenses_in_Coney_Island)
-  - [Urban Flooding and Hurricane Sandy](Urban_Flooding_and_Hurricane_Sandy)
-    - [Introduction](Introduction)
-    - [Hurricane Sandy's Impact on Urban Flooding and New Yorkers](Hurricane_Sandy's_Impact_on_Urban_Flooding_and_New_Yorkers)
-    - [ Minimizing Flood-Related Threats During Storms](Minimizing_Flood-Related_Threats_During_Storms)
-- [Current Flood Mitigation](Current_Flood_Mitigation)
-  - [The Construction Code](The_Construction_Code)
-  - [Protecting Buildings](Protecting_Buildings)
-  - [Green Infrastructure](Green_Infrastructure)
-  - [Stormwater Resiliency Plan and Goals](Stormwater_Resiliency_Plan_and_Goals)
+- [Communities Impacted by Urban Flooding](#communities-impacted-by-urban-flooding)
+  - [Urban Flooding in the Gowanus](#urban-flooding-in-the_gowanus)
+    - [Introduction to the Gowanus Canal](#introduction-to-the-gowanus-canal)
+    - [Health Risks caused by Flooding in the Gowanus](#health-risks-caused-by-flooding-in-the-gowanus)
+    - [Expenses and Solutions for Flooding in the Gowanus](#expenses-and-solutions-for-flooding-in-the-gowanus)
+  - [ Urban Flooding in Coney Island ](#urban-flooding-in-coney-island)
+    - [Introduction to Coney Island](#introduction-to-coney-island)
+    -  [Flooding Risk and Expenses in Coney Island](#flooding-risk-and-expenses-in-coney-island)
+  - [Urban Flooding and Hurricane Sandy](#urban-flooding-and-hurricane-sandy)
+    - [Introduction](#introduction)
+    - [Hurricane Sandy's Impact on Urban Flooding and New Yorkers](#hurricane-sandy's-impact-on-urban-flooding-and-new-yorkers)
+    - [ Minimizing Flood-Related Threats During Storms](#minimizing-flood-related-threats-during-storms)
+- [Current Flood Mitigation](#current-flood-mitigation)
+  - [The Construction Code](#the-construction-code)
+  - [Protecting Buildings](#protecting-buildings)
+  - [Green Infrastructure](#green-infrastructure)
+  - [Stormwater Resiliency Plan and Goals](#stormwater-resiliency-plan-and-goals)
 # Communities Impacted By Urban Flooding 
 
 Urban flooding is a major issue in many coastal cities including New York. Extreme rainfall leaves many communities vulnerable to harm caused by flooding, such as property damage, sewer back ups, basement seepage, health concerns and more. One instance of urban flooding causing extensive damage was when so much flood water built up on a private worksite, it broke through the plywood barrier separating it from the Court Street train station. Soon the platform was filled with storm water. This is only one instance of the devastating impacts of urban flooding, these types of incidents happen in coastal cities whenever it rains, and with global warming, these incidents will become more frequent and deadly. 
@@ -57,11 +58,13 @@ Urban flooding is an expensive issue due to how much it costs to repair damage a
 ### Introduction to Coney Island
 
 Coney Island is a well known neighborhood in Brooklyn that turns into a go-to summer relaxation spot in the summer for Brooklyn residents. Tourists visit the nearby amusement park, Luna Park and Coney Island beach, and other popular tourist spots. Despite the neighborhoods many positive attributes, it is one of New York's flood prone locations, making it vulerable to all sorts of infrastructure damage and more. 
+
 ![10](https://user-images.githubusercontent.com/87463186/127222373-0dced87b-f18c-4f7c-928e-714bb5be9aa3.jpg)
 
 ### Flooding Risk and Expenses in Coney Island
 
 Coney Island is a high flood risk location, and it's risk continues to increase. 99 percent of the properties in Coney Island are in risk of being damged by flooding. Currently 1,590 properties are at risk, but in fifteen years, this number is expected to increase by 7.4 percent, putting 1,707 properties at risk, and in 30 years, there is a 14.7 percent expected increase in properties at risk. Of the 1,590 properties at flood risk right now, they all have a chance of water entering their buildings and causing up to four feet of flooding. These high levels of flood risk are very expensive as well. This year, the flood damage costs $27K, but in 30 years, there  is an expected 188 percent increase, costing $789.7K in damage. 
+
 ![sandy](https://user-images.githubusercontent.com/87463186/127222288-ae43a8cb-dc7b-43f6-8f5c-c54a5e960d9d.jpg)
 
 

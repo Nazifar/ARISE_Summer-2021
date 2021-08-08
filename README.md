@@ -48,7 +48,7 @@ Urban flooding is an expensive issue due to how much it costs to repair damage a
 - 21 percent of the properties are at risk of property damage caused by flooding
   - 144 properties at risk currently
   - In 15 years there will be a 86% increase putting 212 properties at risk. In 30  years there will bre a 171.9% increase, putting 310 properties at risk.
-- Annual cost of lood damage this year: $130K
+- Annual cost of flood damage this year: $130K
   - In 30 years there will be a 53% increase and it will cost $199K
 
 
